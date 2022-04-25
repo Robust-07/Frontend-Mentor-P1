@@ -1,0 +1,14 @@
+.overlay-img{
+    top: 0;
+    height: 350px;
+    width: 350px;
+    opacity: 0;
+    background: #03FCF4;
+    
+}
+
+.overlay-img:hover{
+    transition: 0.5s;
+   opacity: 0.5;
+}
+
